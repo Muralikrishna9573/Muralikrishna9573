@@ -59,6 +59,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muralikrishna9573" alt="GitHub Streak" />
 </p>
+![](https://leetcard.jacoblin.cool/muralikrishna9573?ext=heatmap)
 
 ---
 
